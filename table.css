@@ -1,0 +1,30 @@
+    body{
+        background:#fdd8b0;
+        font-family:Arial;
+        text-align:center;
+    }
+    table{
+        margin:auto;
+        width:80%;
+        border-collapse:collapse;
+    }
+    th{
+        background:#8cc63f;
+        padding:10px;
+        border:1px solid #8cc63f;
+    }
+    td{
+        padding:10px;
+        border:1px solid #ccc;
+    }
+
+    h1{
+        color: orange;
+    }
+    h3{
+        color: purple;
+    }
+
+    p {
+        margin-top:20px; color:green;
+    }
